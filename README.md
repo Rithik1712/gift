@@ -1,1 +1,1 @@
-A simple gift shop web app made by html,css,js by using this language.With seamless integration it offer a user-friendly interface like adding item like category,our feature,review, cart providing hassle free experience its just an demo web page
+
